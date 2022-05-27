@@ -29,4 +29,10 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
-![](https://github.com/rahuldasdevops/pipelines-java/workflows/Java CI with Maven/badge.svg)
+
+
+
+
+
+
+[![Java CI with Maven](https://github.com/rahuldasdevops/pipelines-java/actions/workflows/maven.yml/badge.svg?event=status)](https://github.com/rahuldasdevops/pipelines-java/actions/workflows/maven.yml)
