@@ -35,4 +35,4 @@ or trademarks, whether by implication, estoppel or otherwise.
 
 
 
-[![Java CI with Maven](https://github.com/rahuldasdevops/pipelines-java/actions/workflows/maven.yml/badge.svg?event=status)](https://github.com/rahuldasdevops/pipelines-java/actions/workflows/maven.yml)
+[![Java CI with Maven](https://github.com/rahuldasdevops/pipelines-java/actions/workflows/mavenCI/badge.svg?event=status)](https://github.com/rahuldasdevops/pipelines-java/actions/workflows/maven.yml)
