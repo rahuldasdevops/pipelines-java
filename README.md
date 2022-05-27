@@ -1,2 +1,2 @@
 # This is a sample Maven based java project
-![Java CI with Maven](https://github.com/rahuldasdevops/pipelines-java/workflows/mavenCI/badge.svg)
+![](https://github.com/rahuldasdevops/pipelines-java/actions/workflows/maven.yml/badge.svg)
